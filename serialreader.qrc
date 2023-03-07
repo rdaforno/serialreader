@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/serial.ico</file>
+        <file>images/serial.png</file>
+    </qresource>
+</RCC>
